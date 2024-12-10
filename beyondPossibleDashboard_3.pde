@@ -34,7 +34,7 @@ void draw() {
       fill(inData[0]/4, inData[1]/4, inData[2]/4);
       if(inData[10]==0)
       {
-      ellipse(inData[3], inData[4], 700, 600);
+      ellipse(inData[3]*1.36, inData[4]*1.17, 700, 600);
       }
       else
       {
