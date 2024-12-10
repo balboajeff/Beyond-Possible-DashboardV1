@@ -42,6 +42,7 @@ void draw() {
       }
     }
   }
+fill(#344848);
   textSize(30);
   text("Potentiometer1= ", 500, 35);
   text(inData[0], 720, 35);
